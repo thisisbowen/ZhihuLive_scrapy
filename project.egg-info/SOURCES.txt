@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+zhihulives_crawler/__init__.py
+zhihulives_crawler/items.py
+zhihulives_crawler/middlewares.py
+zhihulives_crawler/pipelines.py
+zhihulives_crawler/settings.py
+zhihulives_crawler/spiders/__init__.py
+zhihulives_crawler/spiders/speaker_ab.py
