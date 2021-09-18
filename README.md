@@ -1,2 +1,2 @@
 # ZhihuLive_scrapy
-Use scrapy package to scrap Zhihu Live related data
+The project to scrap [Zhihu Lives](https://www.zhihu.com/lives/) data including undergoing lives, speaker information, hot lives etc..
